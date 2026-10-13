@@ -14,21 +14,17 @@
 --- 
 
 ## Resources
+- Intro slides:
 
-- Vibe coding slides : https://github.com/Helmholtz-AI-Matter/coding-assistants/releases/download/v0.6.6/vibe_coding.pdf
+  - Vibe coding slides : https://github.com/Helmholtz-AI-Matter/coding-assistants/releases/download/v0.6.6/vibe_coding.pdf
 
-- Software development slides : https://github.com/HelmholtzAI-Consultants-Munich/agentic-coding-hands-on/blob/main/agentic_coding_workshop.pdf
+  - Software development slides : https://github.com/HelmholtzAI-Consultants-Munich/agentic-coding-hands-on/blob/main/agentic_coding_workshop.pdf
 
-- Feedback form : xxx
+- Additional Material:
 
-- Questions: OpenCode interface and scrolling speed setup: https://opencode.ai/docs/tui/#configure
+  - Questions: OpenCode interface and scrolling speed setup: https://opencode.ai/docs/tui/#configure
 
-- Hallucination is Inevitable: https://arxiv.org/pdf/2401.11817
-
-*contact the presenters:*
-Serena Sritharan: serena.sritharan@helmholtz-munich.de
-Karol Szustakowski: karol.szustakowski@helmholtz-munich.de
-
+  - Hallucination is Inevitable: https://arxiv.org/pdf/2401.11817
 
 ---
 
@@ -56,6 +52,11 @@ Please confirm you can launch OpenCode and get a response from the model before 
 **5. Bring a laptop**
 
 If you get stuck on any of these steps, feel free to contact us.
+
+*Contact the presenters:*
+Serena Sritharan: serena.sritharan@helmholtz-munich.de
+Karol Szustakowski: karol.szustakowski@helmholtz-munich.de
+
 
 ---
 
